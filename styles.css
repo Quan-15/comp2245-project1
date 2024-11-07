@@ -47,8 +47,10 @@ nav a:hover {
     padding: 40px 0;
 }
 
-.overview-hero-image {
-    flex: 1;
+.overview-hero-image img {
+    width: 100%; 
+    max-width: 200px; 
+    height: auto; 
 }
 
 .overview-hero-text {
